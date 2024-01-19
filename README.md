@@ -8,4 +8,4 @@ Refactored existing code to meet standards and make site more accessible.
 https://papaspinach.github.io/Aarons-HTML-CSS-Challenge1/
 
 ## Screenshots
-![Screenshot](/Screenshot/challenege1shot.png)
+![Screenshot](/Screenshot/challenge1shot.png)
